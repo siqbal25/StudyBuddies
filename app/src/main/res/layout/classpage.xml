@@ -5,7 +5,7 @@
     android:paddingLeft="16dp"
     android:paddingRight="16dp"
     android:orientation="vertical"
-    tools:context="com.example.sabrinaiqbal.studybuddiessabrina.Main2Activity">
+    tools:context="com.example.bryan.studybuddies.MainActivity">
 
 
 

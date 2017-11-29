@@ -5,7 +5,7 @@
     android:paddingLeft="16dp"
     android:paddingRight="16dp"
     android:orientation="vertical"
-    tools:context="com.example.sabrinaiqbal.studybuddiessabrina.MainActivity">
+    tools:context="com.example.bryan.studybuddies.MainActivity">
 
     <TextView
         android:layout_width="match_parent"
@@ -24,7 +24,7 @@
         android:maxWidth="99dp"
         android:maxHeight="99dp"
         android:scaleType="fitCenter"
-        android:layout_marginLeft="300dp"
+        android:layout_marginLeft="300gidp"
         android:src="@drawable/studybuddieslogo" />
 
 
